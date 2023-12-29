@@ -1,0 +1,14 @@
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\bin\Debug\net8.0\Bank.App.exe
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\bin\Debug\net8.0\Bank.App.deps.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\bin\Debug\net8.0\Bank.App.runtimeconfig.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\bin\Debug\net8.0\Bank.App.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\bin\Debug\net8.0\Bank.App.pdb
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\refint\Bank.App.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.pdb
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\Bank.App.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bank.App\Bank.App\obj\Debug\net8.0\ref\Bank.App.dll
