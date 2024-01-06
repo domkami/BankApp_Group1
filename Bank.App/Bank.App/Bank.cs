@@ -9,10 +9,11 @@ public class Bank
     {
         customers = new List<Customer>
         {
-            new Customer(1, "Jan", "Kowalski", "123456789", 1000),
-            new Customer(2, "Tomasz", "Nowak", "987654321", 1500),
-            new Customer(3, "Karolina", "Kasprzyk", "111223344", 2000),
-            new Customer(4, "Ewa", "Swoboda", "555666777", 500)
+            new Customer(1, "Jan", "Nowak", "001", 1457.23m),
+            new Customer(2, "Agnieszka", "Kowalska", "002", 3600.18m),
+            new Customer(3, "Robert", "Lewandowski", "003", 2745.03m),
+            new Customer(4, "Zofia", "Plucińska", "004", 7344.00m),
+            new Customer(5, "Grzegorz", "Braun", "005", 455.38m)
         };
     }
 

@@ -100,7 +100,7 @@ class Program
                 }
             }
 
-            Console.WriteLine("gg"); // Dodatkowy odstęp dla czytelności
+            Console.WriteLine(""); // Dodatkowy odstęp dla czytelności
         }
     }
 }
